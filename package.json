@@ -1,0 +1,13 @@
+{
+    "name": "capturar-ip",
+    "version": "1.0.0",
+    "description": "Un servidor para capturar IPs en Vercel",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "dependencies": {
+      "express": "^4.18.2"
+    }
+  }
+  
